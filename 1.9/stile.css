@@ -3,3 +3,49 @@ body {
     color: rgb(167, 226, 107);
     background-color: rgb(78, 82, 81);
 }
+
+a {
+   color: white;    
+}
+
+a:hover {
+   color: red;
+}
+
+ul.marking {
+    list-style-image: url('/1.9/img/_123028.svg');
+}
+
+ol.roman {
+    list-style-type: upper-roman;
+}
+
+ol {
+    list-style: none;
+    counter-reset: li;
+}
+
+ol li {
+    counter-reset: li;
+    counter:counters(li, ".")".";
+}
+
+.ruby {
+    font-family: "PT Sans", serif;
+}
+
+body.table {
+    color: black;
+    background-color: rgb(160, 160, 160);
+}
+
+table {
+    border-top: 3px solid grey;
+    border-bottom: 3px solid grey;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid grey;
+    padding: 10px;
+}
