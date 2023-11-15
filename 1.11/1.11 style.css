@@ -1,0 +1,75 @@
+body {
+    display: inline;
+    text-align: center;
+}
+
+
+.exp1 {
+    border: 4px outset rgb(194, 150, 150);
+    margin: 500px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 20px;
+
+} 
+
+.exp2 {
+    border: 4px inset rgb(194, 150, 150);
+    margin-top: -750px;
+    margin-bottom: 500px;
+    margin-left: 430px;
+    margin-right: 430px;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+.exp3 {
+    border: 4px ridge rgb(231, 75, 75);
+    margin-top: -900px;
+    margin-bottom: 700px;
+    margin-left: 370px;
+    margin-right: 370px;
+    padding-top: 350px;
+    padding-bottom: 100px;
+}
+
+.exp4 {
+    border: 4px inset rgb(194, 150, 150);
+    margin-top: -1220px;
+    margin-bottom: 900px;
+    margin-left: 320px;
+    margin-right: 320px;
+    padding-top: 370px;
+    padding-bottom: 180px;
+}
+
+.exp5 {
+    border: 4px double rgb(194, 150, 150);
+    margin-top: -1510px;
+    margin-bottom: 1100px;
+    margin-left: 280px;
+    margin-right: 280px;
+    padding-top: 390px;
+    padding-bottom: 240px;
+}
+
+.exp6 {
+    border: 4px dashed rgb(206, 26, 26);
+    margin-top: -1790px;
+    margin-bottom: 1300px;
+    margin-left: 240px;
+    margin-right: 240px;
+    padding-top: 410px;
+    padding-bottom: 300px;
+}
+
+.exp7 {
+    border: 4px dotted rgb(19, 59, 192);
+    margin-top: -2070px;
+    margin-bottom: 1500px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-top: 430px;
+    padding-bottom: 360px;
+}
+
