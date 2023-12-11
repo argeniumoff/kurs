@@ -1,16 +1,15 @@
 body {
-    display: inline;
+    display: block;
     text-align: center;
 }
 
 
 .exp1 {
     border: 4px outset rgb(194, 150, 150);
-    margin: 500px;
-    padding-top: 80px;
-    padding-bottom: 80px;
-    padding-left: 20px;
-
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
 } 
 
 .exp2 {
