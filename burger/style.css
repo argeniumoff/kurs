@@ -17,6 +17,7 @@ body {
 .menu-list {
     display: flex;
     list-style-type: none;
+    
 }
 
 .menu-item:not(:last-child) {
